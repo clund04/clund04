@@ -10,9 +10,9 @@
 🌍 I speak **Finnish**, **English**, and a little bit of **Swedish**.  
 
 ## 🧠 My Interests
-- 🔎 Especially interested in AI, looking to develop expertise in this area.  
-- 📚 Still learning and always curious about new technologies!   
-- 🤝 Open to collaboration and interesting projects  
+🔎 Especially interested in AI, looking to develop expertise in this area.  
+📚 Still learning and always curious about new technologies!   
+🤝 Open to collaboration and interesting projects  
 
 ---
 
