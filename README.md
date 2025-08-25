@@ -1,9 +1,10 @@
-<!-- Header with animated glitter text -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cecilia!+%E2%9C%A8;Welcome+to+my+GitHub+🌸)
+<!-- Header with animated text using Quicksand font, centered -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FFB6C1&font=Quicksand&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cecilia!+%E2%9C%A8;Welcome+to+my+GitHub+🌸" alt="Typing SVG" />
+</p>
 
-<!-- Glitter divider -->
-* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸
 
+* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° * . ﹢ ˖ ✦ ¸ . ﹢ ° ¸. ° ˖ ･ ·̩ ｡ ☆ ﾟ ＊ ¸* . ﹢ ˖ ✦ ¸ . ﹢ ° ¸ *
 ## ✨ About Me
 🎓 I'm a Computer Science and Engineering student with a strong interest in **Artificial Intelligence**.  
 💻 I have basic knowledge of **Java** and **Python**.  
@@ -13,6 +14,11 @@
 🔎 Especially interested in AI, looking to develop expertise in this area.  
 📚 Still learning and always curious about new technologies!   
 🤝 Open to collaboration and interesting projects  
+
+## 📧 Contact Me
+Feel free to reach out!  
+📧 Email: [cessilund@gmail.com](mailto:cessilund@gmail.com)  
+🔗 LinkedIn: [Cecilia's LinkedIn](https://www.linkedin.com/in/cecilia-lund)
 
 ---
 
@@ -34,5 +40,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clund04&layout=compact&theme=rose_pine)  
 ![Streak](https://streak-stats.demolab.com?user=clund04&theme=rose_pine&hide_border=false)
 
-<!-- Glitter divider -->
-<img src="https://i.pinimg.com/originals/0a/70/0a/0a700a38f6a25d4b03e2186c2e5c619b.gif" width="100%"/>
+
+
