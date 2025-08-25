@@ -15,10 +15,10 @@
 📚 Still learning and always curious about new technologies!   
 🤝 Open to collaboration and interesting projects  
 
-## 📧 Contact Me
+## 📫 Contact Me
 Feel free to reach out!  
 📧 Email: [cessilund@gmail.com](mailto:cessilund@gmail.com)  
-🔗 LinkedIn: [Cecilia's LinkedIn](https://www.linkedin.com/in/cecilia-lund)
+🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/cecilia-lund)
 
 ---
 
