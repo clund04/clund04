@@ -38,7 +38,7 @@ Feel free to reach out!
 ## ✨ GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=clund04&show_icons=true&theme=rose_pine)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clund04&layout=compact&theme=rose_pine)  
-![Streak](https://streak-stats.demolab.com?user=clund04&theme=rose_pine&hide_border=false)
+
 
 
 
